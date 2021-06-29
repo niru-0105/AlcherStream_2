@@ -1,0 +1,117 @@
+body{
+    
+    background:  url("profile.svg"), url("logo.svg"),url("bg.png");
+   background-repeat: no-repeat;
+   
+   background-position: 95% 30px, 50px 30px,0px 0px;
+    
+    margin: 0px;
+}
+#heading{
+    margin-top:  300px; 
+}
+h1{
+    font-size: 58px;
+    font-family: 'Poppins', sans-serif;
+    color: transparent;
+    -webkit-text-stroke: 2px white;
+    
+    word-spacing: -5px;
+    line-height: 20px;
+   text-align: center;
+   
+}
+#heading h2{
+    text-align: center;
+    color: white;
+    padding: 30px 60px;
+    margin: auto 520px;
+    background-color: #e75480;
+}
+h2{
+    margin-top: 120px;
+    margin-left: 70px;
+    font-weight: bolder;  
+}
+article{
+    margin-left: 40px;
+}
+#movies img{
+    padding-left: 15px;
+    margin-top: 200px;
+    
+}
+h3{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+/* span{
+    font-size: 16px;
+    
+    color: white;
+    font-weight: bold;
+    height: 20px;
+    margin-left: 30%;
+   border: 1px solid black;
+   padding-right: 40%;
+   padding-bottom: 5px;
+  
+   padding-top: 20px;
+    
+    border-bottom: 3px solid white;
+} */
+/*#bottom div{
+           margin-left: 30%;
+}
+#bottom div{
+     text-align: center;
+     border: 2px  ;
+}
+#bottom div img{
+    padding-left: 40px;
+padding-top: 100px;
+border: 2px solid red;
+
+}
+#bottom p{
+    padding-top: 150px;
+    border: 2px solid blue;
+}*/
+ p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+     color: white;
+    border: 2px solid red;
+    margin-top: 200px;
+    padding-top: 190px;
+     text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    background-image: url("fb3.jpg"), url("you2.jpg")
+    , url("twiter.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 40px,40px, 40px,30px;
+    background-position: 40% 55px, 50% 55px , 60% 55px;
+    background-color: black;
+}
+#searchbar {
+
+margin-top: 0px;
+align-items: top;
+}
+#Sbox {
+   color: white;
+   font-weight: bold;
+   /* transform: translate(40%, 50%); */
+   background-color: transparent;
+   margin-left: 30%;
+   padding-top: 8px;
+   margin-top: 30px;
+   padding-right: 350px;
+   border-top: none;
+   border-bottom: 3px solid white;
+   border-left: none;
+   border-right: none;
+}
